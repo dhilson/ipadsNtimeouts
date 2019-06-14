@@ -37,13 +37,12 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
+            <p style={{ maxWidth: 310 }}>
+            The adventures of Jude and Olly.<br/>
+            Blog by{' '}
+            <a href={`https://twitter.com/${social.twitter}`}>David Hilson</a>.{' '}
+
+          
             </p>
           </div>
         )

@@ -22,7 +22,7 @@ Da Da's neck whipped around to look at Olly, eyes wide with terror.
 
 Olly beamed happily as he looked at the pan, pointed again, and looked back to Da Da, "HOT!!", he shouted.
 
-In a blink Da Da had grabbed Olly from the stool and whisked him away to the living room couch.
+In a blink Da Da had grabbed Olly from the stool and whisked him away plopping him gently on the living room couch.
 
 Olly, having been so proud of his "helping", roared with displeasure.
 
